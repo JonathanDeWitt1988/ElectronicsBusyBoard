@@ -15,4 +15,11 @@ Pushbutton 5- This steps through all 26 letters of the alphabet while also stati
 
 The SD card on the DFPlayer Mini must be formatted in Fat16 or Fat32 format.  The order you add the files to the SD card matters.  The first file you add is what the DFPlayer mini considers file 001 regardless of file name.  The second file you add is what the DFPlayer mini considers file 002 regardless of file name.  You get the idea.
 
-I'm uploading a text file which shows the actual names of the files on my micro SD card so you can see how to name your files.  You'll have to go in and edit the code to select your files with whatever scheme you want to use.  I recorded the audio clips using Sound Recorder built into windows.  Note you'll want to change the default Sound Recorder setting to record to MP3 format.  You have the code and schematic.
+I'm uploading a text file which shows the actual names of the files on my micro SD card so you can see how to name your files.  You'll have to go in and edit the code to select your files with whatever scheme you want to use.  I recorded the audio clips using Sound Recorder built into windows.  Note you'll want to change the default Sound Recorder setting to record to MP3 format.  You have the code and schematic.  The schematic is available as a .png file and .pdf file.  Both are the same schematic.  You can zoom in.
+
+Source of ESP32 Node MCU board used
+https://www.aliexpress.us/item/2251832773226694.html
+I buy the ESP-32 38Pin option.
+
+Demonstration Video
+https://www.youtube.com/watch?v=pJFP9uuFRVQ
