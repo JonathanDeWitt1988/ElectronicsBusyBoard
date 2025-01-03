@@ -23,3 +23,10 @@ I buy the ESP-32 38Pin option.
 
 Demonstration Video
 https://www.youtube.com/watch?v=pJFP9uuFRVQ
+
+3D Print Files
+"Electronics Busy Board Outer Enclosure Rev 2.stl" - This is the file to print the bulk of the enclosure
+"Electronics Busy Board Pushbutton Extension Rev 6.stl" - This is to extend the 6x6 momentary contact pushbuttons (I used the tallest in a pack I had) up from the perf board up out of the acrylic.  I believe Rev 5 is the file I used just to get a rough idea of where I needed to hand drill the holes for the extensions to push through the acrylic.  So, I printed both Rev 5 and Rev 6, discarding Rev 5 after I was done using them to find the hole placements.
+"Electronics Busy Board Cover Template Rev 0.stl" - This is a 1 mm thick template that has the shape needed for the acrylic pieces.  I taped this to a sheet of 2 mm thick acrylic, cut the rough shape out with a dremel tool, and then used a bench grinder to get the fine detail needed for the acrylic top and bottom pieces.
+To hold my acrylic plates into the outer enclosure better I used M3 insets (M3 meaning 3 mm diameter screws).  This is where I got them:
+https://www.amazon.com/HANGLIFE-Heat-Set-Threaded-Printing-Components/dp/B0CS6VZYL8/ref=sr_1_4
